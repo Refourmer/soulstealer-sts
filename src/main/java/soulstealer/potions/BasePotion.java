@@ -1,4 +1,4 @@
-package basicmod.potions;
+package soulstealer.potions;
 
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Texture;
