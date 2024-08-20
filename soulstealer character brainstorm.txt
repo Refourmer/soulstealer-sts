@@ -1,0 +1,24 @@
+soulstealer
+-> steals souls of enemies and makes their power his own?
+    -> how to implement?
+        -> maybe each enemy gets assigned a specific type and it gives the character buffs and nerfs based on it
+            -> e.g.
+                -> oni gives more dmg, but block is less OR it gives + strength and - dexterity on start (basic soul kind of)
+        -> starter relic 
+            ->will safe the last soul?
+            ->lets user choose to override soul?
+                ->could be unbalanced
+            ->can more souls be contained?
+                ->maybe possible to upgrade starter item to safe more souls or fuse souls?
+            ->maybe souls are not unique and monsters just give souls as in a stacks
+                ->cards can then do more based on stacks LAME AND TOO EASY late game?
+                    ->the character has to be weakish early and more stronger late
+                        ->maybe not, but why stack then anyways
+        ->maybe cards can give certain buffs based on different souls?
+        ->maybe get enemies as unplayable cards that are retained in hand and can be channeled by using cards in the deck?
+        ->player could remove one card, so more cards would be needed to channel, maybe something like the stances on the mystic character
+
+I like the idea.
+
+KEEP IN MIND OTHER RELICS
+        

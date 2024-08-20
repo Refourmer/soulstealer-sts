@@ -1,0 +1,23 @@
+iron clad
+
+23 common
+36 uncommon
+16 rare
+
+silent
+
+23 common
+33 uncommon
+19 rare
+
+protector
+
+22 common
+36 uncommon
+17 rare
+
+watcher
+
+23 common
+35 uncommon
+17 rare
